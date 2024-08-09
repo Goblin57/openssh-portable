@@ -1,3 +1,4 @@
+// Test with action
 /* $OpenBSD: auth.c,v 1.160 2023/03/05 05:34:09 dtucker Exp $ */
 /*
  * Copyright (c) 2000 Markus Friedl.  All rights reserved.

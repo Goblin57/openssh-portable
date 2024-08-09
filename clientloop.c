@@ -1,3 +1,4 @@
+// Test with action
 /* $OpenBSD: clientloop.c,v 1.402 2023/11/24 00:31:30 dtucker Exp $ */
 /*
  * Author: Tatu Ylonen <ylo@cs.hut.fi>
